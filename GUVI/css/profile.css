@@ -1,0 +1,23 @@
+body{
+    padding: 100px;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100,100,111,0.2)0px 7px 29px 0px;
+}
+.form-group{
+    margin-bottom: 30px;
+}
+.form-login{
+    margin-top: 15px;
+}
+.form-title{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#address
+{
+    font-size:14pt;
+}
